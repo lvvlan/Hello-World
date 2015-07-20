@@ -1,0 +1,23 @@
+/**
+ * Created by luowei5 on 2015/7/3.
+ * Mail luowei5@jd.com
+ * Update 2015/7/3
+ */
+
+h1{
+    width: 100%;
+    text-align: center;
+    padding: 15px 0px;
+}
+.logout{
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin: 10px auto;
+    border: 1px solid #f00;
+    text-align: center;
+    line-height: 40px;
+    color: #00f;
+    font-size: 18px;
+    font-weight: bold;
+}
